@@ -42,12 +42,12 @@ To run this project locally, you will need:
 -Glasses and smoke effects will be applied to the nose keypoint for each detected person.
 
 ### Customization
--You can modify the visual effects applied to the keypoints:
+You can modify the visual effects applied to the keypoints:
 
 1.Specs and Smoke Images:
--Replace the images/spects.png and images/cigar.png files with your custom images.
+Replace the **images/spects.png** and **images/cigar.png** files with your custom images.
 2.Effect Positioning:
--Adjust the position and size of the specs or other custom images by modifying the X and Y offsets in the draw() function in sketch.js.
+Adjust the position and size of the specs or other custom images by modifying the X and Y offsets in the draw() function in sketch.js.
 
 
 
