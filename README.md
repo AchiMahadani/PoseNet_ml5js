@@ -1,4 +1,4 @@
-# PoseNet ml5.js Project
+# PoseNet ml5.js 
 
 This project implements **PoseNet** using the **ml5.js** library for real-time human pose estimation. PoseNet is a machine learning model which allows for the estimation of human poses from image or video feeds. In this project, we use PoseNet to detect multiple people in a video stream, track their keypoints, and apply custom visual effects like glasses and smoke on detected keypoints.
 
